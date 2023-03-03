@@ -1,0 +1,1 @@
+python detect_or_track.py --weights yolov7.pt --no-trace --view-img --source merged.avi --show-fps --track --classes 0 --show-track --unique-track-color
